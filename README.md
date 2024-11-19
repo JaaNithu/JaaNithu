@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋! I'm Jaanuja and I'm an Associate Software Engineer!</h1>
 
 ###
-<br>
+
 <h2>🚀 Software Engineer | 🌐 Full-Stack Developer</h2>
 Welcome to my GitHub profile! I'm passionate about building innovative solutions, contributing to open-source projects, and continuously learning new technologies.
 
 ###
-<br>
+
 <h2>🔍 About Me</h2>
 <ul>
   <li>🎓 Education: Bachelor’s of Information and Communication Technology Honors</li>
@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
   </li>
   <li>😉 Fun Fact: I can solve a Rubik's cube in under a minute!</li>
 </ul>
-<br>
 
 ###
 
@@ -34,7 +33,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ###
 
-<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
