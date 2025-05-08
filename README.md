@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 <h2>🔍 About Me</h2>
 <ul>
   <li>🎓 Education: Bachelor’s of Information and Communication Technology Honors</li>
-  <li>💼 Currently Working: Software Engineering Intern at SPM Technologies</li>
   <li>🌱 Currently Learning: Data Analysts, Cloud Computing, Docker, Kubernetes</li>
   <li>
     <ul>🤝 Looking to Collaborate On:
